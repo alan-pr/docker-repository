@@ -10,6 +10,5 @@ terraform.tfstate
 terraform.tfstate.backup
 /.terraform/
 
-
 # Temporary / backup file
 ~.
