@@ -1,0 +1,14 @@
+# Google Cloud SDK (installed files)
+google-cloud-sdk/
+google-cloud-cli-458.0.1-linux-x86_64.tar.gz
+
+# Sensitive keys
+keys/
+
+# Terraform state files (contain secrets)
+terraform.tfstate
+terraform.tfstate.backup
+
+
+# Temporary / backup file
+~.
