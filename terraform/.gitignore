@@ -8,6 +8,7 @@ keys/
 # Terraform state files (contain secrets)
 terraform.tfstate
 terraform.tfstate.backup
+.terraform/
 
 
 # Temporary / backup file
